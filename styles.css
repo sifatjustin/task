@@ -1,0 +1,32 @@
+.container{
+    width: 85%;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.line{
+    height: 5px;
+    width: 35px;
+    background-color: #dddf43;
+    border: none;
+    border-radius: 10%;
+  
+}
+.svgColor{
+    color: #dddf43;
+}
+.hero{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.middleside , .rightside{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-direction: column;
+}
