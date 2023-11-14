@@ -1,5 +1,11 @@
 @media only screen and (max-width: 600px) {
+    .container{
+        width: 95%;
+    margin: 0 auto;
+    }
     .hero{
     flex-direction: column;
+    min-width: 400px;
+    max-width: 550px;
     }
   }
