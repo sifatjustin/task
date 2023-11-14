@@ -8,7 +8,7 @@
     .hero{
     flex-direction: column;
     margin: 0 auto;
-    min-width: 350px;
+    min-width: 300px;
     max-width: 590px;
     }
   }
